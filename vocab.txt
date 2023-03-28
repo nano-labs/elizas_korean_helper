@@ -1,0 +1,4 @@
+네 yes
+아니오 no
+괜찮아요 okay
+안녕하세요 hello
